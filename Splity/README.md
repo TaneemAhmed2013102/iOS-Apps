@@ -6,8 +6,8 @@ A beautiful bill splitting, tip calculating app. No one can work out $145.56 spl
 
 # App Interfaces:
 <p align="center">
-  <img src="Documentation/img1.PNG" width="200">
-  <img src="Documentation/img2.PNG" width="200">
-  <img src="Documentation/img3.PNG" width="200">
+  <img src="Documentation/img1.PNG" width="250">&nbsp;&nbsp;
+  <img src="Documentation/img2.PNG" width="250">&nbsp;&nbsp;
+  <img src="Documentation/img3.PNG" width="250">
 </p>
 
