@@ -3,7 +3,7 @@ A dark-mode enabled weather app where you'll be able to check the weather for th
 
 # App Interfaces:
 # Icon:
-<img src="Documentation/icon.PNG">
+<img src="Documentation/icon.png">
 
 # Dark Mode:
 <img src="Documentation/DarkMode.PNG" width="250">
