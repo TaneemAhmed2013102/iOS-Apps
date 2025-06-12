@@ -8,6 +8,6 @@ A dark-mode enabled weather app where you'll be able to check the weather for th
 # Dark Mode:
 <img src="Documentation/DarkMode.PNG" width="250">
  
-# Light Mode
+# Light Mode:
 <img src="Documentation/LightMode.PNG" width="250">
 
