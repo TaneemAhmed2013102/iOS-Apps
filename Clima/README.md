@@ -2,10 +2,10 @@
 # App Interfaces:
 
 # Dark Mode:
-![Dark Mode](Documentation/DarkMode.png)
+<img src="Documentation/DarkMode.PNG" width="250">
  
 # Light Mode
-![Light Mode](Documentation/LightMode.png)
+<img src="Documentation/LightMode.PNG" width="250">
 
 # Features
 A dark-mode enabled weather app where you'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
