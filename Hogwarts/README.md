@@ -8,7 +8,6 @@ In this app, you will experience a “choose your own adventure” game based on
 <p align="center">
   <img src="Documentation/img1.PNG" width="250">&nbsp;&nbsp;
   <img src="Documentation/img2.PNG" width="250">&nbsp;&nbsp;
-  <img src="Documentation/img3.PNG" width="250">&nbsp;&nbsp;
   <img src="Documentation/img4.PNG" width="250">
 </p>
 
