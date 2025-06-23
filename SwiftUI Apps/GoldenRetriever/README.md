@@ -1,10 +1,10 @@
 # Main Features
-A beautiful iOS developer business card app using swiftUI where you'll find the details of the developer. 
+A beautiful iOS developer business card app using swiftUI where you'll find the contact details of the developer. 
 
 # Icons:
 <p align="left">
-  <img src="Documentation/iconLight.PNG">
-  <img src="Documentation/iconDark.PNG">
+  <img src="Documentation/iconLight.png">&nbsp;&nbsp;
+  <img src="Documentation/iconDark.png">
 </p>
 
 # App Interface:
