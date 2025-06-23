@@ -6,7 +6,7 @@ Hack404News is an app where it enables users to access Hacker News data programm
 
 # App Interfaces:
 <p align="left">
-  <img src="Documentation/img1.PNG" width="250">
+  <img src="Documentation/img1.PNG" width="250">&nbsp;&nbsp;
   <img src="Documentation/img2.PNG" width="250">
 </p>
 
