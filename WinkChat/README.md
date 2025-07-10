@@ -7,9 +7,9 @@ WinkChat is an internet based messaging app similar to WhatsApp, where I used a 
 
 # App Interfaces:
 <p align="center">
-  <img src="Documentation/img1.PNG" width="200">&nbsp;
-  <img src="Documentation/img2.PNG" width="200">&nbsp;
-  <img src="Documentation/img3.PNG" width="200">&nbsp;
-  <img src="Documentation/img4.PNG" width="200">
+  <img src="Documentation/img1.PNG" width="250">&nbsp;
+  <img src="Documentation/img2.PNG" width="250">&nbsp;
+  <img src="Documentation/img3.PNG" width="250">&nbsp;
+  <img src="Documentation/img4.PNG" width="250">
 </p>
 
